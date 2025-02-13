@@ -293,3 +293,19 @@ section {
      
     }
 }
+
+
+
+ .footer {
+    background-color: #fdc7df ;
+    padding: 20px 0;
+  }
+  
+  .footer-container {
+    display: flex;
+    justify-content: space-around; /* توزيع الأيقونات بالتساوي */
+    align-items: center; /* محاذاة العناصر عموديًا */
+    max-width: 800px; /* تحديد عرض الفوتر */
+    margin: 0 auto; /* توسيط الفوتر في الصفحة */
+  }
+  
